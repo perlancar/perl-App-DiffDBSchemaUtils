@@ -223,3 +223,7 @@ This distribution includes several utilities:
 =head1 SEE ALSO
 
 L<DBIx::Diff::Schema>
+
+For MySQL: L<MySQL::Diff> and its CLI L<mysqldiff> which can compare live
+database schemas or database schemas specified as SQL. Outputs SQL statements
+that express the difference.
